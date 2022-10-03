@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
-- [linkendin] (https://www.linkedin.com/in/jhean-undifined/)
+- [linkendin](https://www.linkedin.com/in/jhean-undifined/)
 
