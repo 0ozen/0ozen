@@ -6,7 +6,6 @@
 actualmente aprendiendo desarrollo web usando: Javascript, Reactjs, Nodejs ...
 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning web development
 
