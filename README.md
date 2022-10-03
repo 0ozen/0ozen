@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
-- :D [linkendin](https://www.linkedin.com/in/jhean-undifined/)
+links aleatorios 
+    - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
+    -
+    -
+    -
 
