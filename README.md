@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 
-links aleatorios 
+- links aleatorios 
     - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
     -
     -
