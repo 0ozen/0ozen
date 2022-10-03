@@ -11,7 +11,7 @@ actualmente aprendiendo desarrollo web usando: Javascript, Reactjs, Nodejs ...
 
 - 🤔 I’m looking for help with ...
 
-- Links aleatorios 
+- 😆 Links aleatorios 
     - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
     -
     -
