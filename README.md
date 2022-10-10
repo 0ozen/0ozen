@@ -9,11 +9,11 @@ actualmente aprendiendo desarrollo web usando: Javascript, Reactjs, Nodejs ...
 
 - 🌱 I’m currently learning web development
 
-- 🤔 I’m looking for help with ......😣
+- 🌱 I’m looking for help with ......😣
 
-- 🙃 Links aleatorios 
+- 🌱 Links aleatorios 
     - ...
-    - ...
+    - [sitio web](https://myportfolio003.netlify.app/)
     - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
     - ...
 
