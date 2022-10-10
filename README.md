@@ -3,7 +3,7 @@
 <!--
 **0ozen/0ozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-actualmente aprendiendo desarrollo web usando: Javascript, Reactjs, Nodejs ...
+actualmente estoy aprendiendo desarrollo web usando: Javascript, Reactjs, Nodejs ...
 
 
 
