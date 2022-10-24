@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is jhean 👋
 
 <!--
 **0ozen/0ozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,11 @@
 
 
 
-- 🌱 I’m currently learning web development
+- 🌱 I am a frontend web developer
 
-- 🌱 ...
+- 🌱 I am currently focused on getting better with the mern stack
 
-- 🌱 Links
+- 🌱 Contact 
     - ...
     - [sitio web](https://myportfolio003.netlify.app/)
     - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
