@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I am a frontend web developer
+- 🌱 I am a frontend developer
 
 - 🌱 I am currently focused on getting better with the mern stack
 
