@@ -6,11 +6,11 @@
 
 
 
-- 🌱 I am a frontend developer
+- 🌱 Soy un desarrollador frontend
 
-- 🌱 I am currently focused on getting better with the mern stack
+- 🌱 Actualmente estoy enfocado en mejorar mis habilidades con el stack mern
 
-- 🌱 Contact 
+
     - ...
     - [sitio web](https://myportfolio003.netlify.app/)
     - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
