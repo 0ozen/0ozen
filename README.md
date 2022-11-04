@@ -1,4 +1,4 @@
-### Hi, my name is jhean 👋
+### Hi, my name is Jhean 👋
 
 Soy un desarrollador web
   
