@@ -1,18 +1,11 @@
 ### Hi, my name is jhean 👋
 
-<!--
-**0ozen/0ozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Soy un desarrollador web
+    
+  -[linkedin] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/jhean-undifined//) 
+    
+  -[sitio web] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://myportfolio003.netlify.app/)  
 
 
-
-- 🌱 Soy un desarrollador frontend
-
-- 🌱 Actualmente estoy enfocado en mejorar mis habilidades con el stack mern
-
-
-    - ...
-    - [sitio web](https://myportfolio003.netlify.app/)
-    - [linkendin](https://www.linkedin.com/in/jhean-undifined/)
-    - ...
+Habilidades: React / JavaScript / Html / Css / MySQL / MongoDB / Nodejs /
 
