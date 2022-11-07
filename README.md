@@ -1,6 +1,6 @@
 ### Hi, my name is Jhean 👋
 
-Desde que conocí la programación mi gusta por resolver desafíos escribiendo código solo ha ido aumentando, mi lenguaje favorito es JavaScript 
+Desde que conocí la programación mi gusto por resolver desafíos escribiendo código solo ha ido aumentando, mi lenguaje favorito es JavaScript 
 
 	P.D: aveces subo cosas con errores :c
 	React / JavaScript / Html / Css / MySQL / MongoDB / Nodejs / C++
