@@ -1,9 +1,10 @@
 ### Hi, my name is Jhean 👋
 
-Soy un desarrollador web
-  
-Habilidades: React / JavaScript / Html / Css / MySQL / MongoDB / Nodejs /
+Desde que conocí la programación mi gusta por resolver desafíos escribiendo código solo ha ido aumentando, mi lenguaje favorito es JavaScript 
 
-  ✨ [linkedin](https://www.linkedin.com/in/jhean-undifined/)
+	P.D: aveces subo cosas con errores :c
+	React / JavaScript / Html / Css / MySQL / MongoDB / Nodejs / C++
+
+  	✨ [linkedin](https://www.linkedin.com/in/jhean-undifined/)
     
-  ✨ [sitio web](https://myportfolio003.netlify.app/])
+  	✨ [sitio web](https://myportfolio003.netlify.app/)
