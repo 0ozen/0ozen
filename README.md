@@ -12,4 +12,4 @@ Desde que conocí la programación mi gusto por resolver desafíos escribiendo c
   ✨[sitio web](https://myportfolio003.netlify.app/)
 
 
-###### P.D: aveces subo cosas con errores :c
+###### ...
