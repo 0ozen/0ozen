@@ -1,4 +1,4 @@
-### Hi, my name is Jhean 👋
+### Hola, me llamo Jhean 👋
 
 Soy un desarrollador autodidacta, me encanta la programación y por eso siempre estoy aprendiendo algo nuevo o mejorando mis habilidades.
 
